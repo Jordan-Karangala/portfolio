@@ -48,9 +48,6 @@ export default function Home() {
       {/* Projects */}
       <Projects />
 
-        {/* Blog */}
-      <Blog />
-
       {/* Contact */}
       <Contact />
 
